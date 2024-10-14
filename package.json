@@ -1,6 +1,6 @@
 {
   "name": "create-njit-basic-vue",
-  "version": "1.0.3-13",
+  "version": "1.0.3-14",
   "type": "module",
   "bin": {
     "create-vue": "outfile.cjs"

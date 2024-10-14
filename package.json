@@ -1,6 +1,6 @@
 {
   "name": "create-vue-alap-2024",
-  "version": "1.0.3-10",
+  "version": "1.0.3-11",
   "type": "module",
   "bin": {
     "create-vue": "outfile.cjs"

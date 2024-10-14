@@ -3,11 +3,10 @@ import { defineConfig } from 'vite'
 
 import Vue from '@vitejs/plugin-vue'
 import VueDevtools from 'vite-plugin-vue-devtools'
-import VueRouter from 'unplugin-vue-router/vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [Vue(), VueDevtools(), VueRouter()],
+  plugins: [Vue(), VueDevtools()],
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),

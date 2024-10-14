@@ -1,7 +1,6 @@
 {
   "name": "create-vue-alap-2024",
   "version": "1.0.3-10",
-  "description": "An easy way to start a Vue project",
   "type": "module",
   "bin": {
     "create-vue": "outfile.cjs"
@@ -24,15 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ignaczdominik/create-njit-vue.git"
+    "url": "git+https://github.com/ignaczdominik/create-vue-alap-2024.git"
   },
   "keywords": [],
   "author": "Ignácz Dominik Bence <i.dominik+npm@outlook.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ignaczdominik/create-njit-vue/issues"
+    "url": "https://github.com/ignaczdominik/create-vue-alap-2024/issues"
   },
-  "homepage": "https://github.com/ignaczdominik/create-njit-vue#readme",
+  "homepage": "https://github.com/ignaczdominik/create-vue-alap-2024#readme",
   "devDependencies": {
     "@types/eslint": "^8.21.1",
     "@types/node": "^18.14.2",
